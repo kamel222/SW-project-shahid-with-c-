@@ -1,0 +1,100 @@
+C:\Users\pc\source\repos\projecttt\projecttt\bin\Debug\projecttt.exe.config
+C:\Users\pc\source\repos\projecttt\projecttt\bin\Debug\projecttt.exe
+C:\Users\pc\source\repos\projecttt\projecttt\bin\Debug\projecttt.pdb
+C:\Users\pc\source\repos\projecttt\projecttt\bin\Debug\Oracle.DataAccess.dll
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.Form1.resources
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.Properties.Resources.resources
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.csproj.CopyComplete
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.exe
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.pdb
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.movies_form.resources
+C:\Users\pc\source\repos\projecttt\projecttt\obj\Debug\projecttt.tv_Shows.resources
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\bin\Debug\projecttt.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\bin\Debug\projecttt.exe
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\bin\Debug\projecttt.pdb
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.Form1.resources
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.movies_form.resources
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.tv_Shows.resources
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.exe
+C:\Users\Lenovo\OneDrive\Desktop\projecttt\projecttt\obj\Debug\projecttt.pdb
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\projecttt.exe.config
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\projecttt.exe
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\projecttt.pdb
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.csproj.AssemblyReference.cache
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.Form1.resources
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.movies_form.resources
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.Properties.Resources.resources
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.tv_Shows.resources
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.csproj.GenerateResource.cache
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.csproj.CoreCompileInputs.cache
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.csproj.CopyComplete
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.exe
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.pdb
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.CrystalReport1.resources
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\stdole.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.Form2.resources
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.Form3.resources
+C:\Users\future\Desktop\third year second term\SE\projecttt\projecttt\obj\Debug\projecttt.Form4.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\projecttt.exe.config
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\projecttt.exe
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\projecttt.pdb
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\FlashControlV71.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\stdole.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.csprojAssemblyReference.cache
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.CrystalReport1.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.Form1.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.Form2.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.Form3.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.Form4.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.movies_form.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.Properties.Resources.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.tv_Shows.resources
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.csproj.GenerateResource.cache
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.csproj.CoreCompileInputs.cache
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.csproj.CopyComplete
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.exe
+C:\Users\Rama2\Desktop\projecttt\projecttt\obj\Debug\projecttt.pdb
